@@ -1,0 +1,32 @@
+1- Fazer uma pesquisa de preços em sites pela internet.     
+    1.1- ligar através de uma fonte de energia.
+    1.2- iniciar o sistema operacional. 
+    1.3- carregar as funções de sistema.
+    1.4- acessar a rede.
+    1.5- Acessar o Navegador de Rede. 
+    1-6- Digitar na barra de pesquisar "macbook preços e modelos"
+    1.7- Carregar os resultados.
+    1.8- Selecionar algum dos resultados.
+    1.9- Carregar a página do site. 
+    1.10- Projetar as informações contidas ali.                                                                                                                                 
+2- Conferir o tempo de entrega. 
+3- Analisar qual a melhor máquina em termos de custo beenfício. 
+4- Ir em lojas físicas e comparar com preço da internet
+5- Conferir se tenho o dinheiro suficiente. 
+6- Ir ao banco solicitar a trasnferência do dinheiro. 
+7- Realizar a compra do Macbook. 
+8- Receber o Macbook. 
+9- Conferir se ele veio certo.
+Ligar, testar e começar a usar.   
+
+
+
+1- Os números para que a página de cadastro do aplicativo projetado se torne correta são: 15 e 30
+2- 15 e 30 totalizam 45. 
+3- Esse é o número necessário de comandos por milésimo de segundos para que a página de cadastro do aplicativo funcione. 
+
+
+Tarefa
+
+Fazer um programa que calcule o valor de imposto de renda baseado num salário. 
+(Aliquota Imposto de renda:7,5%)
